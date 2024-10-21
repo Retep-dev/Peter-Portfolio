@@ -1,25 +1,25 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Birb Coin",
+    "imageSrc": "projects/birb.png",
+    "description": "This is a WEB 3 project developed for users to interact, complete tasks, and earn points",
+    "skills": ["React", "Node"],
+    "demo": "https://t.me/birbtasksbot",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Kibou Registry",
+    "imageSrc": "projects/kibou.png",
+    "description": "This is an ongoing project developed to streamline an NGO Participant Management System",
+    "skills": ["React"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "My Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "This is an interactive website to display my best work, projects, and achievements",
+    "skills": ["React", "Vue.js"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }

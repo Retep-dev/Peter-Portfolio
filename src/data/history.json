@@ -4,26 +4,16 @@
     "organisation": "Moneta",
     "startDate": "April, 2024",
     "endDate": "Present",
-    "experiences": ["Worked on NGO managment application to get daily record", "Reduced load times by 50%"],
+    "experiences": ["Worked on NGO management application to get daily record", "Reduced load times by 50%"],
     "imageSrc": "history/google.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "role": "Frontend Engineer",
+    "organisation": "Footprint Mentorship",
+    "startDate": "Oct, 2024",
+    "endDate": "Present",
+    "experiences": ["Engineered seamless frontend integrations with backend API, reducing data exchange latency by 10% and enhancing application performance"],
     "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
-    "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
-    ],
-    "imageSrc": "history/netflix.png"
   }
 ]
+
