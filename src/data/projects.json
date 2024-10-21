@@ -20,7 +20,7 @@
     "imageSrc": "projects/portfolio.png",
     "description": "This is an interactive website to display my best work, projects, and achievements",
     "skills": ["React", "Vue.js"],
-    "demo": "https://www.example.com",
+    "demo": "https://peter-portfolio-one.vercel.app",
     "source": "https://www.github.com"
   }
 ]
